@@ -1,6 +1,14 @@
 # Learning C++ 
 This repository will contain information on how to code in the computer programming language of C++!
 
+### Why high-level languages are better than low level programming languages?
+
+The main difference between high level language and low level language is that programmers can easily understand or interpret or compile the high level language in comparison of machine. On the other hand, machines can easily understand the low level language in comparison of human beings.
+
+C++ is considered a low-level programming language. You can write a fairly high-level code, with complicated data structures and local variables and functions and various other things you'd find in "high"-level languages, and still have it translated into 100% pure uninterpreted assembly language.
+
+C++ is also faster than Python because C++ is a compiled language and Python is an interpreted language. 
+
 ### I. Download Visual Studio
 - In my example, I installed Visual Studio Community version 17.0
 
