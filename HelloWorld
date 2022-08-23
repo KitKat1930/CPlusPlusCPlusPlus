@@ -16,7 +16,7 @@ using namespace std;
 int main()		// This is the main function and serves as an entry point for the program.
 {
 	string x = "Hello World!";	
-  // Here we define a variable, x, as a string and initializes 
+  // Here we define a variable, x, as a string and initialize 
   // x to "Hello World!". 
 
 	cout << x << endl;		// The variable x is being outputted. 
