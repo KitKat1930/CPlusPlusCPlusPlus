@@ -1,0 +1,27 @@
+# include <iostream> 
+// This tells the preprocessor to include the header file "iostream" in the program.
+// iostream is the header file responsable for input and output streams. It 
+// contains functions like cin and cout.
+
+// # include <string>
+
+// The data type 'string' is a programmer-defined type and is not part of the C++
+// language; however the C++ standard library supplies it. 
+
+using namespace std;
+
+// It is known that “std” (abbreviation for the standard) is a namespace whose members are used in the program. 
+// So the members of the “std” namespace are cout, cin, endl, etc. This namespace is present in the iostream.
+
+int main()		// This is the main function and serves as an entry point for the program.
+{
+	string x = "Hello World!";	
+  // Here we define a variable, x, as a string and initializes 
+  // x to "Hello World!". 
+
+	cout << x << endl;		// The variable x is being outputted. 
+		
+	system("PAUSE");		// The system pauses so we can read our output. 
+
+	return 0; // returns the value of 0 to the operating system when the program terminates 
+}
